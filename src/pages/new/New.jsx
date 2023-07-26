@@ -1,7 +1,9 @@
 import "./new.scss";
 
-export const New = () => {
+const New = () => {
   return (
     <div>New</div>
   )
 }
+
+export default New
