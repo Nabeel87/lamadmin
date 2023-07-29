@@ -11,3 +11,7 @@ we are going to use material ui icons in our project install from mui website us
 now install react-circular-progressbar for income status in featured components using command
     yarn add react-circular-progressbar
 
+going to install cart library for our chart component, we use in this project rechart from https://recharts.org/en-US/
+
+first step just install chart using yarn, 
+                   yarn add recharts
