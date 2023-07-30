@@ -44,7 +44,8 @@ const Datatable = () => {
                 </Link>
             </div>
             <DataGrid
-                rows={userRows}
+                className="datagrid"
+                rows={data}
                 columns={userColumns.concat(actionColumn)}
                 initialState={{
                     pagination: {
