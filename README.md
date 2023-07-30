@@ -15,3 +15,6 @@ going to install cart library for our chart component, we use in this project re
 
 first step just install chart using yarn, 
                    yarn add recharts
+
+creating datatable commponenet for user page, in this page we choose different table
+    se we add liabrary        yarn add @mui/x-data-grid
